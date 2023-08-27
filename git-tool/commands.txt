@@ -1,0 +1,10 @@
+#git commands 
+git status
+git push
+git clone url
+git commit -m "hhhhh"
+git add filename 
+git remote  add name url
+git remote -v
+git pull
+git fetch 
