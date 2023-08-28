@@ -1,3 +1,31 @@
+# git installation steps in cetnos 
+step1: setup vistual box
+step2: ssh to vm
+step3: sudo yum install git -y
+step3: git --version
+git config --global user.name "Your Name"
+git config --global user.email "you@example.com"
+git config --list
+
+#Step 1 — To Creating your workspace
+mkdir testing
+cd testing
+touch file1 file2
+#Step 2 — Converting an existing project into a workspace environment
+git init
+git add .
+
+#Step 3 — Creating a commit message
+git commit -m "Initial Commit" -a
+git commit -m "Initial Commit" file1 file2
+#Step 4 — Pushing changes to a remote server
+git remote add origin ssh://git@git.domain.tld/repository.git 
+git remote -v
+git push origin main
+
+#Git braches
+
+
 
 # git commands 
 git status
