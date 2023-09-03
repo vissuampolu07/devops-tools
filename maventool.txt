@@ -1,0 +1,29 @@
+Introduction
+
+Apache Maven is a build-automation tool designed to provide a comprehensive and easy-to-use way of developing Java applications. It uses a POM (Project Object Model) approach to create a standardized development environment for multiple teams.
+
+Prerequisites
+
+A system running Windows.
+A working Internet connection.
+Access to an account with administrator privileges.
+Access to the command prompt.
+A copy of Java installed and ready to use, with the JAVA_HOME environment variable set up (learn how to set up the JAVA_HOME environment variable in our guide to installing Java on Windows).
+
+Step 1: Download Maven Zip File and Extract
+1. Visit the Maven download page and download the version of Maven you want to install. The Files section contains the archives of the latest version. Access earlier versions using the archives link in the Previous Releases section.
+
+2. Click on the appropriate link to download the binary zip archive of the latest version of Maven. As of the time of writing this tutorial, that is version 3.8.4.
+
+[200~Step 2: Add MAVEN_HOME System Variable
+1. Open the Start menu and search for environment variables.
+
+2. Click the Edit the system environment variables result.Step 2: Add MAVEN_HOME System Variable
+1. Open the Start menu and search for environment variables.
+
+2. Click the Edit the system environment variables result.Step 2: Add MAVEN_HOME System Variable
+1. Open the Start menu and search for environment variables.
+
+3. Under the Advanced tab in the System Properties window, click Environment Variables
+4. Click the New button under the System variables section to add a new system environment variable.
+
