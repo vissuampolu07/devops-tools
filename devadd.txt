@@ -1,0 +1,34 @@
+GitHub: Github is considered as one of the largest and most advanced development platforms in the world. Millions of developers and companies build, ship, and maintain their software on GitHub. Some of its’ salient features are:
+
+Collaborative Coding
+Automation / CI & CD
+Security including additional features for enterprise customers
+Project Management
+Source: github.com
+
+Bitbucket: Bitbucket is a very popular platform, with over 10 million registered users. Although it is a platform for hosting code, it goes beyond just code management. Teams can plan projects, collaborate on code, test, and deploy from a single platform. Some of its features are:
+
+Tighter Jira and Trello integration.
+Integrated CI/CD to build, test and deploy.
+Pull requests and approve code review more efficiently.
+Keep your code secured in the Cloud with IP whitelisting and 2-step verification.
+Source: bitbucket.org
+
+[200~Kubernetes: Kubernetes is an open-source DevOps tool used to automate deployment and management of containerized applications & perhaps one of the most popular container orchestration tools. Features that differentiate it from other DevOps Tools include:
+
+Make changes to your application or its configuration and monitoring application health simultaneously – Automated rollouts & rollbacks.
+It offers own IP addresses and a single DNS name for a set of Pods – Service Delivery and load balancing.
+Automatically mount the storage system of your choice.
+Self-healing capability.
+Source: kubernetes.io
+
+
+Source: kubernetes.io
+
+Mesos: Apache Mesos is a DevOps tool to manage computer clusters. It is a distributed systems kernel for resource management and scheduling across entire datacenter and cloud environments. Its features include:
+
+Offers native support to launch containers with Docker and AppC images.
+Supports cloud-native and legacy applications to run in the same cluster with pluggable scheduling policies.
+Runs on cross platforms like Linux, OSX and Windows.
+Scale to 10,000s of nodes easily.
+Source: mesos.apache.org
