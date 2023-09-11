@@ -1,0 +1,38 @@
+Pipeline
+The following tutorials show how to use key features of Jenkins to facilitate implementing CI/CD processes to build your applications:
+
+Getting started with Jenkins Pipeline
+
+Publishing HTML Reports in Pipeline (Declarative Pipeline, Scripted Pipeline)
+
+Sending Notifications in Pipeline (Declarative Pipeline, Scripted Pipeline)
+
+End-to-End Multibranch Pipeline Project Creation
+
+Creating a shared library
+
+Faster Pipelines with the Parallel Test Executor Plugin
+
+Converting Conditional Build Steps to Jenkins Pipeline
+
+Pipeline Development ToolsBlue Ocean
+Getting Started with Blue Ocean
+
+Getting Started with Blue Ocean’s Visual Pipeline Editor (guide, video guide)
+
+Getting Started with Blue Ocean’s Activity View
+
+Getting Started with the Blue Ocean Dashboard
+The following tutorials show how to use Jenkins to cover the basics of CI/CD concepts based on specific technology stacks.
+
+Choose the tutorial that’s relevant to your technology stack or one that you’re most familiar with:
+
+Build a Java app with Maven
+
+Build a Node.js and React app with npm
+
+Build a Python app with PyInstaller
+
+Build a LabVIEW app
+
+Build a Jenkins pipeline by using Jenkinsfile Runner GitHub Actions
